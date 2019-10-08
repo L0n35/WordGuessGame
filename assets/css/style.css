@@ -1,0 +1,48 @@
+img.triplej {
+  width: 200px;
+  height: auto;
+}
+
+.header {
+  text-align: center;
+  background: navy;
+  color: white;
+  font-size: 30px;
+  width: 50%;
+  margin: auto;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  background: green;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.blue {
+  margin: auto;
+  width: 50%;
+  background: navy;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#blankWord {
+}
+
+#guessedLetters {
+}
+
+#lives {
+}
+
+#wins {
+}
+
+#losses {
+}
